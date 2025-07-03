@@ -1,3 +1,4 @@
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751610712:KeyName=prod_linear:Signature=MwClhtaA1q_nanLYvoFYBqi80VFhpQ2s7JvpXLIEZHFDV1qRu5d1sJPtk3_zbvzZGcCmMN4CN-qVJsUAuaQaCg"}
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
