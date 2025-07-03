@@ -16,3 +16,5 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/kamrul3406X/KHCloudFileIPTV/raw/refs/heads/img/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title="Bangla" group-title="",Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/kamrul3406X/KHCloudFileIPTV/raw/refs/heads/img/My_TV_(Bangladesh).png"group-title="Bangla" group-title="",MY TV
+https://mytvbangla.com/0.m3u8
