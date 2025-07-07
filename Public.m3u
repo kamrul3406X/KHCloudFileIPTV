@@ -23,6 +23,6 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/kamrul3406X/KHCloudFileIPTV/raw/refs/heads/img/moviebanglatv.png"group-title="Bangla" group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Jamuna_TV_logo.svg"group-title="Bangla" group-title="Jagobd",Jamuna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png"group-title="Pakistan" group-title="",HUM TV HD
-http://livespecial.jkkllmm.info:21190/aminerva/pkhumtvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjUgMTA6MDg6MTYgQU0maGFzaF92YWx1ZT1wZjNjM2taSjJXZmRxcGRrUUpZOVd3PT0mdmFsaWRtaW51dGVzPTI=
