@@ -8,6 +8,8 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/kamrul3406X/KHCloudFileIPTV/raw/refs/heads/img/Boishakhi_TV_logo.svg.png"group-title="Bangla" group-title="",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kamrul3406X/KHCloudFileIPTV/refs/heads/img/Star_Jalsha.png"group-title="Bangla",Star Jalsha HD
+http://kst.moonplex.net:8080/CH3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/kamrul3406X/KHCloudFileIPTV/raw/refs/heads/img/Colors_Bangla.png"group-title="Bangla" group-title="",Colors Bangla
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
